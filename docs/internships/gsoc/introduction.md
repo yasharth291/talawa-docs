@@ -20,7 +20,7 @@ This section outlines all you need to know about getting involved with the Palis
 1. [Review the Talawa website](https://palisadoesfoundation.github.io/talawa.github.io/).
 1. [Read our presentation for 2021 GSoC students](http://www.palisadoes.org/wp-content/uploads/2021/03/gsoc-2021-talawa.pdf)
 1. Learn more about [Talawa on our YouTube Channel](https://www.youtube.com/watch?v=hKLeU3MlGwY&list=PLv50qHwThlJVTUZsVz2CbRSi2f8uF9XE6).
-1. Examine the list of available [Palisadoes Foundation GSoC ideas](https://palisadoesfoundation.github.io/talawa-docs/docs/gsoc/gsoc-ideas).
+1. Examine the list of available [Palisadoes Foundation GSoC ideas](https://palisadoesfoundation.github.io/talawa-docs/docs/internships/gsoc/gsoc-ideas).
 1. Research the GitHub issue trackers for the projects at:
     1. Talawa: [https://github.com/PalisadoesFoundation/talawa/issues](https://github.com/PalisadoesFoundation/talawa/issues)
     1. Talawa-API: [https://github.com/PalisadoesFoundation/talawa-api/issues](https://github.com/PalisadoesFoundation/talawa-api/issues)
@@ -29,10 +29,10 @@ This section outlines all you need to know about getting involved with the Palis
 1. If you do not see any interesting projects from the proposed ideas or issues, we encourage you to contact the Palisadoes Foundation’s mailing list and propose a new idea. The Palisadoes Foundation does not encourage and will not respond to your personal new open source project ideas which are unrelated to any Palisadoes projects.
     1. You can subscribe to our list at [https://www.freelists.org/list/palisadoes](https://www.freelists.org/list/palisadoes).  
     1. You can send queries to:
-           ![img](/img/freelists.png)
+           ![img](/img/email/freelists.png)
 1. The `Ideas list` is manually updated, please contact our mentors if the page is not being updated.
 1. Mentors can be contacted on our slack channel or at:
-       ![img](/img/mentors.png)
+       ![img](/img/email/mentors.png)
 
 Good luck!
 

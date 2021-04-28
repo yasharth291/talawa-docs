@@ -28,10 +28,8 @@ We may give shortlisted candidates short code challenges to confirm our final de
 
 Get feedback on your draft application proposal at:
 
-![img](/img/draft-submissions.png)
+![img](/img/email/draft-submissions.png)
 
 ### Submitting Your Final Proposal
 
-Submit your final applications at:
-
-![img](/img/submissions.png)
+Submit your final applications on the GitHub Externship website.
